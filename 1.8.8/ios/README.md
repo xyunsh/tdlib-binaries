@@ -1,0 +1,1 @@
+[Build ios](https://github.com/tdlib/td/blob/master/example/ios/README.md)
